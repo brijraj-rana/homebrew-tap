@@ -1,6 +1,6 @@
 cask "launchcheck" do
-  version "0.3.0"
-  sha256 "bba791384b887fb1bf97313e8271cefab234ec9a81a9f9ba076d7ffd2f90d336"
+  version "0.3.1"
+  sha256 "b003804492f5111a6012bf2ee42ab68628c79b86a5818023f3f20a54f2c5fccb"
 
   url "https://github.com/BRIJRAJ-02/launchcheck/releases/download/v#{version}/Launchcheck-#{version}.dmg"
   name "Launchcheck"
