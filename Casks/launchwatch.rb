@@ -1,6 +1,6 @@
 cask "launchwatch" do
-  version "0.1.1"
-  sha256 "9ed24a647db922f38768b159cb6992ff34736ae2e144fbbfadb81e9018b494de"
+  version "0.2.0"
+  sha256 "77378c83deced643a58c44e57615ea0e3befc7e40ab346f635b157ac7deeb27b"
 
   url "https://github.com/BRIJRAJ-02/launchwatch/releases/download/v#{version}/Launchwatch-#{version}.dmg"
   name "Launchwatch"
