@@ -1,6 +1,6 @@
 cask "portpeek" do
-  version "0.2.0"
-  sha256 "722af0938b05c3f9c396be871ac103a35d402644832b20969f81a5b0454dc4a7"
+  version "0.3.0"
+  sha256 "410a05ef61722e4f9fa5075f31fa30ec4ec6466ca523136c295600d9b73d2903"
 
   url "https://github.com/BRIJRAJ-02/portpeek/releases/download/v#{version}/Portpeek-#{version}.dmg"
   name "Portpeek"

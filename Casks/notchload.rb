@@ -1,6 +1,6 @@
 cask "notchload" do
-  version "1.0.1"
-  sha256 "35d7bfbf01489bfc8c9b677d0835d398f368b311e608f340f3170f26e32fea74"
+  version "1.1.0"
+  sha256 "7f8df8798b4bcdca58dbd53130b52e2da6d745e183e259f42f6926f537de43bf"
 
   url "https://github.com/BRIJRAJ-02/notchload/releases/download/v#{version}/Notchload-#{version}.dmg"
   name "Notchload"

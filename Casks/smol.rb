@@ -1,6 +1,6 @@
 cask "smol" do
-  version "0.1.0"
-  sha256 "257d870b139d91e5b4ae9fa3c8c29172f25294d8a90f165a75978fbe42f6e0bd"
+  version "0.2.0"
+  sha256 "cd8b951b628fc122c1992b93d71c89b320c3dc344c14622f85f41426562ceccf"
 
   url "https://github.com/BRIJRAJ-02/smol/releases/download/v#{version}/Smol-#{version}.dmg"
   name "Smol"
