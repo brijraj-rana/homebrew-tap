@@ -1,6 +1,6 @@
 cask "notchshelf" do
-  version "0.1.0"
-  sha256 "8ece94c2d68f555356ccb6cb8ce846dd8dff7bd1dfa8322ab2d307222f7fba58"
+  version "0.2.0"
+  sha256 "2c5a5d1193621c45d18b2361f4b0583410ee425a31d675ac9eeb380663147e0e"
 
   url "https://github.com/BRIJRAJ-02/notchshelf/releases/download/v#{version}/Notchshelf-#{version}.dmg"
   name "Notchshelf"
