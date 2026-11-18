@@ -4,6 +4,7 @@ Six small Mac apps, installable with Homebrew.
 
 ```bash
 brew tap brijraj-02/tap
+brew trust brijraj-02/tap        # recent Homebrew asks you to trust a third-party tap before using it
 brew install --cask launchcheck
 ```
 
