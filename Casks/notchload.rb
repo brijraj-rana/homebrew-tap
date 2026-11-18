@@ -2,10 +2,10 @@ cask "notchload" do
   version "1.1.0"
   sha256 "7f8df8798b4bcdca58dbd53130b52e2da6d745e183e259f42f6926f537de43bf"
 
-  url "https://github.com/BRIJRAJ-02/notchload/releases/download/v#{version}/Notchload-#{version}.dmg"
+  url "https://github.com/brijraj-rana/notchload/releases/download/v#{version}/Notchload-#{version}.dmg"
   name "Notchload"
   desc "System load monitor under the MacBook notch"
-  homepage "https://github.com/BRIJRAJ-02/notchload"
+  homepage "https://github.com/brijraj-rana/notchload"
 
   livecheck do
     url :url

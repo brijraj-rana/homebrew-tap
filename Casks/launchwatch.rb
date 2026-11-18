@@ -2,10 +2,10 @@ cask "launchwatch" do
   version "0.3.0"
   sha256 "f0295fdf43b610dbd57d62abb94ed366baca371ad35f0c3d2b7cdd65e5716ad8"
 
-  url "https://github.com/BRIJRAJ-02/launchwatch/releases/download/v#{version}/Launchwatch-#{version}.dmg"
+  url "https://github.com/brijraj-rana/launchwatch/releases/download/v#{version}/Launchwatch-#{version}.dmg"
   name "Launchwatch"
   desc "Keeps checking live websites from the menu bar"
-  homepage "https://github.com/BRIJRAJ-02/launchwatch"
+  homepage "https://github.com/brijraj-rana/launchwatch"
 
   livecheck do
     url :url

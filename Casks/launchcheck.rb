@@ -2,10 +2,10 @@ cask "launchcheck" do
   version "0.4.0"
   sha256 "e2a235ee3876527f11c343edafe893d67cbb549d5034a2c9eb5ed1e46e6d0cd6"
 
-  url "https://github.com/BRIJRAJ-02/launchcheck/releases/download/v#{version}/Launchcheck-#{version}.dmg"
+  url "https://github.com/brijraj-rana/launchcheck/releases/download/v#{version}/Launchcheck-#{version}.dmg"
   name "Launchcheck"
   desc "Checks a website for SEO mistakes before it goes live"
-  homepage "https://github.com/BRIJRAJ-02/launchcheck"
+  homepage "https://github.com/brijraj-rana/launchcheck"
 
   livecheck do
     url :url

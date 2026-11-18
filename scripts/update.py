@@ -5,7 +5,7 @@ import json
 import pathlib
 import urllib.request
 
-OWNER = "BRIJRAJ-02"
+OWNER = "brijraj-rana"
 APPS = [
     # token, app name, one line, command-line tool inside the bundle (or None), files to remove on zap
     ("smol", "Smol", "Image compressor with a dial for an interface", ("smol-cli", "smol"),

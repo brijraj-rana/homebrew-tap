@@ -2,10 +2,10 @@ cask "smol" do
   version "0.2.0"
   sha256 "cd8b951b628fc122c1992b93d71c89b320c3dc344c14622f85f41426562ceccf"
 
-  url "https://github.com/BRIJRAJ-02/smol/releases/download/v#{version}/Smol-#{version}.dmg"
+  url "https://github.com/brijraj-rana/smol/releases/download/v#{version}/Smol-#{version}.dmg"
   name "Smol"
   desc "Image compressor with a dial for an interface"
-  homepage "https://github.com/BRIJRAJ-02/smol"
+  homepage "https://github.com/brijraj-rana/smol"
 
   livecheck do
     url :url

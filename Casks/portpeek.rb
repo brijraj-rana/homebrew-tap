@@ -2,10 +2,10 @@ cask "portpeek" do
   version "0.3.0"
   sha256 "410a05ef61722e4f9fa5075f31fa30ec4ec6466ca523136c295600d9b73d2903"
 
-  url "https://github.com/BRIJRAJ-02/portpeek/releases/download/v#{version}/Portpeek-#{version}.dmg"
+  url "https://github.com/brijraj-rana/portpeek/releases/download/v#{version}/Portpeek-#{version}.dmg"
   name "Portpeek"
   desc "Lists listening localhost ports from a screen corner"
-  homepage "https://github.com/BRIJRAJ-02/portpeek"
+  homepage "https://github.com/brijraj-rana/portpeek"
 
   livecheck do
     url :url

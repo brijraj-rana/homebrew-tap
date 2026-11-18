@@ -2,10 +2,10 @@ cask "notchshelf" do
   version "0.3.0"
   sha256 "7f0ddb67acfd5116c59f18952d2a006fa11488ae08bf900b0c45ade091a271b2"
 
-  url "https://github.com/BRIJRAJ-02/notchshelf/releases/download/v#{version}/Notchshelf-#{version}.dmg"
+  url "https://github.com/brijraj-rana/notchshelf/releases/download/v#{version}/Notchshelf-#{version}.dmg"
   name "Notchshelf"
   desc "File shelf under the MacBook notch"
-  homepage "https://github.com/BRIJRAJ-02/notchshelf"
+  homepage "https://github.com/brijraj-rana/notchshelf"
 
   livecheck do
     url :url
